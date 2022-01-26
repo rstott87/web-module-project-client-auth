@@ -29,7 +29,6 @@
     "jest": "27.3.1",
     "msw": "0.35.0",
     "nodemon": "2.0.14",
-    "webpack": "5.62.1",
     "webpack-dev-server": "^4.7.3"
   },
   "dependencies": {
