@@ -3,6 +3,7 @@ import React from "react";
 import axiosWithAuth from '../utils/axiosWithAuth'
 import AddFriend from "./AddFriend";
 
+
 class FriendsList extends React.Component {
     state = {
         friends: [{}]
